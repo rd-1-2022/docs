@@ -1,0 +1,4 @@
+= Spring Up Documentation
+:description: Learn how to use the Spring Up CLI
+
+Learn how to use the Spring Up CLI

@@ -1,0 +1,17 @@
+= Spring Up
+
+____
+This is the hero text!
+____
+
+== Overview
+
+Spring Up includes:
+
+* CLI for creating new project via:
+ ** Using start.spring.io
+ ** Using Runnable Project Templates in your GitHub or GitLab repository
+
+== High Level View
+
+More text here

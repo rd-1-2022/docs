@@ -1,0 +1,8 @@
+name: springup
+title: Spring Up
+version: latest
+asciidoc:
+  attributes:
+    page-editable: true
+nav:
+  - modules/ROOT/taxonomy.adoc

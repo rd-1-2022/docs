@@ -1,0 +1,22 @@
+= Getting Started with Spring Up
+
+With Spring Up starting a new project has never been easier.
+
+== Step 1
+
+Go to up.spring.io and install the CLI
+
+
+== Step 2
+
+run the command `spring boot new`
+
+== Step 3
+
+`./mvnw spring-boot:run`
+
+== Step 4
+
+Party time `:)`
+
+
